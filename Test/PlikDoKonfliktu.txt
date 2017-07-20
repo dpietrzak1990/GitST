@@ -1,1 +1,4 @@
-Witaj swiecie. To plik do konfliktu. Co sie bedzie dzialo
+Witaj swiecie. 
+To plik do konfliktu. 
+To jest fragment z Brancha
+Co sie bedzie dzialo
