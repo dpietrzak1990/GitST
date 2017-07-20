@@ -1,4 +1,5 @@
 Drugi plik do konfliktu
+zmiany z mastera
 jest pozna godzina
 co ja robie
 bedzie dobrze
