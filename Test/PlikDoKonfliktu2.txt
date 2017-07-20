@@ -2,4 +2,5 @@ Drugi plik do konfliktu
 jest pozna godzina
 co ja robie
 bedzie dobrze
+oczywiscie
 chyba ty
